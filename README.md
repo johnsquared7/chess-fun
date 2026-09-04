@@ -24,6 +24,11 @@ Gil, a small gold fish with opinions, explains each one and reviews your moves a
 Everything runs on device. No accounts, no network calls, no analytics — see
 [`ios/Oddfish/PrivacyInfo.xcprivacy`](ios/Oddfish/PrivacyInfo.xcprivacy).
 
+## Privacy
+
+Oddfish does not collect or transmit personal data. Its plain-language privacy
+policy is in [`PRIVACY.md`](PRIVACY.md).
+
 ## Licence
 
 **GPL-3.0-or-later.** Oddfish links Stockfish, which is GPLv3, so Oddfish carries the same
