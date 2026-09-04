@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 210" role="img" aria-labelledby="title desc">
+  <title id="title">Oddfish vertical logo for light backgrounds</title>
+  <desc id="desc">The deep-teal Oddfish Split O with a dark coral center tile, centered above a midnight wordmark.</desc>
+  <defs>
+    <clipPath id="split-o-upper"><path d="M0 0h96L0 96Z"/></clipPath>
+    <clipPath id="split-o-lower"><path d="M100 4v96H4Z"/></clipPath>
+  </defs>
+  <g transform="translate(150 8)">
+    <path clip-path="url(#split-o-upper)" transform="translate(-2 -2)" fill="#1C7D8C" fill-rule="evenodd" d="M12 39c0-14.912 12.088-27 27-27h22c14.912 0 27 12.088 27 27v22c0 14.912-12.088 27-27 27H39c-14.912 0-27-12.088-27-27V39Zm18 2v18c0 6.075 4.925 11 11 11h18c6.075 0 11-4.925 11-11V41c0-6.075-4.925-11-11-11H41c-6.075 0-11 4.925-11 11Z"/>
+    <path clip-path="url(#split-o-lower)" transform="translate(2 2)" fill="#1C7D8C" fill-rule="evenodd" d="M12 39c0-14.912 12.088-27 27-27h22c14.912 0 27 12.088 27 27v22c0 14.912-12.088 27-27 27H39c-14.912 0-27-12.088-27-27V39Zm18 2v18c0 6.075 4.925 11 11 11h18c6.075 0 11-4.925 11-11V41c0-6.075-4.925-11-11-11H41c-6.075 0-11 4.925-11 11Z"/>
+    <rect x="48" y="43" width="12" height="12" rx="3" fill="#D94841" transform="rotate(-45 54 49)"/>
+  </g>
+  <text x="200" y="177" text-anchor="middle" fill="#0E1620" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="3">ODDFISH</text>
+</svg>

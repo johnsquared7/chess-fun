@@ -1,0 +1,37 @@
+{
+  "identifier" : "0DDF15F1",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "6001000001",
+      "localizations" : [
+        {
+          "description" : "Unlock every premium Oddfish chess mode with one purchase.",
+          "displayName" : "Full Oddfish",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.oddfish.chess.fullunlock",
+      "referenceName" : "Full Oddfish",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_timeRate" : "monthlyRenewalEveryHour"
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

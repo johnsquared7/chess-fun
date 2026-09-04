@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Oddfish Offset O concept</title>
+  <desc id="desc">An open rounded O with one coral square deliberately shifted off the grid.</desc>
+  <path
+    d="M61 18H42C28.745 18 18 28.745 18 42v16c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24V44"
+    fill="none"
+    stroke="#4FE0DD"
+    stroke-width="15"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <rect x="70" y="14" width="17" height="17" rx="4.5" fill="#FF665C" transform="rotate(8 78.5 22.5)"/>
+</svg>

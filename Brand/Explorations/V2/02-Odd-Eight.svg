@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Oddfish Odd Eight concept</title>
+  <desc id="desc">Eight rounded board tiles form an O, with one coral tile lifted out of alignment.</desc>
+  <g fill="#4FE0DD">
+    <rect x="13" y="15" width="22" height="22" rx="6"/>
+    <rect x="39" y="15" width="22" height="22" rx="6"/>
+    <rect x="13" y="41" width="22" height="22" rx="6"/>
+    <rect x="65" y="41" width="22" height="22" rx="6"/>
+    <rect x="13" y="67" width="22" height="22" rx="6"/>
+    <rect x="39" y="67" width="22" height="22" rx="6"/>
+    <rect x="65" y="67" width="22" height="22" rx="6"/>
+  </g>
+  <rect x="66" y="9" width="22" height="22" rx="6" fill="#FF665C" transform="rotate(6 77 20)"/>
+</svg>

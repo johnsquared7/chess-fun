@@ -1,0 +1,66 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode / Apple
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+*.xcuserdatad/
+xcuserdata/
+DerivedData/
+build/
+*.hmap
+*.xccheckout
+*.moved-aside
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Object files & binary build artifacts
+*.o
+*.obj
+*.dylib
+*.a
+
+# Swift Package Manager / Builds
+.build/
+.build-*/
+.swiftpm/
+Package.resolved
+
+# Environment & Editor
+.env
+.env.*
+*.swp
+*~
+
+# Xcode test results
+*.xcresult
+runtime-evidence/
+
+# Chess engine weights (too large for GitHub)
+*.nnue
+
+# Python cache / leftovers
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+.venv/
+node_modules/
+.expo/
+.bundle/
+.rork/
+
+# Internal planning and progress notes. Kept locally, deliberately unpublished:
+# they are working material, not part of the corresponding source.
+/PLAN.md
+/PLAN-MODES.md
+/PLAN-NEXT.md
+/PLAN-UIUX.md
+/IMPLEMENTATION-PLAN.md
+/PROGRESS.md
+/REVIEW_BRIEF.md
